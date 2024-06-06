@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I0YmoNUkFO8TvwZ8F1gBSiXqRRoTjVFzMQQLq3f2ykPhp1v++SSomr91BSgt53QIkXypnpQAzouw60bsce/b4w==",
+  "dgSpecHash": "ZFE1X94sU/rww17x3qtJHS09qpC5wBOtBLfsiJHznO7WhqXDibVvWFC69FZAjlOLCWzQQQ8r7unOb6LUaqivjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\matias.sandovalp\\Documents\\Apps\\crud-books-api\\crud-books-api\\crud-books-api.csproj",
+  "projectFilePath": "C:\\Users\\matias.sandovalp\\Desktop\\Postulación 2025-05-06\\crud-books-api\\crud-books-api\\crud-books-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matias.sandovalp\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.31\\microsoft.aspnetcore.authentication.jwtbearer.6.0.31.nupkg.sha512",
     "C:\\Users\\matias.sandovalp\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

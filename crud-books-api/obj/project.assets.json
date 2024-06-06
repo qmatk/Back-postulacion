@@ -761,11 +761,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matias.sandovalp\\Documents\\Apps\\crud-books-api\\crud-books-api\\crud-books-api.csproj",
+      "projectUniqueName": "C:\\Users\\matias.sandovalp\\Desktop\\Postulación 2025-05-06\\crud-books-api\\crud-books-api\\crud-books-api.csproj",
       "projectName": "crud-books-api",
-      "projectPath": "C:\\Users\\matias.sandovalp\\Documents\\Apps\\crud-books-api\\crud-books-api\\crud-books-api.csproj",
+      "projectPath": "C:\\Users\\matias.sandovalp\\Desktop\\Postulación 2025-05-06\\crud-books-api\\crud-books-api\\crud-books-api.csproj",
       "packagesPath": "C:\\Users\\matias.sandovalp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matias.sandovalp\\Documents\\Apps\\crud-books-api\\crud-books-api\\obj\\",
+      "outputPath": "C:\\Users\\matias.sandovalp\\Desktop\\Postulación 2025-05-06\\crud-books-api\\crud-books-api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\matias.sandovalp\\AppData\\Roaming\\NuGet\\NuGet.Config",

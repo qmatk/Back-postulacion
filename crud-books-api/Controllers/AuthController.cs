@@ -23,8 +23,8 @@ namespace crud_books_api.Controllers
         {
             if (authorization == null) return BadRequest(new { message = "Ingrese credenciales" });
 
-            if (authorization.Username != null) return BadRequest(new { message = "Debe ingresar usuario" });
-            if (authorization.Password != null) return BadRequest(new { message = "Debe ingresar password" });
+            if (authorization.Username == null) return BadRequest(new { message = "Debe ingresar usuario" });
+            if (authorization.Password == null) return BadRequest(new { message = "Debe ingresar password" });
 
             if (authorization.Username != "auth_postulacion" &&  authorization.Password != "pass_postulacion") return BadRequest(new { message = "Credenciales inválidas" });
 
